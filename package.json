@@ -1,10 +1,9 @@
 {
     "name": "theme-fania",
     "displayName": "Fania Theme",
-    "description": "Fania's colour theme for VS Code.",
+    "description": "Dark colour theme made for LaTeX projects.",
     "version": "1.0.0",
     "publisher": "fania",
-    "icon": "fania.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/Fania/vscode-theme-fania.git"

@@ -1,4 +1,3 @@
 # README
 
-My own VS Code theme, customized for LaTeX, Markdown and Python.
-
+A VS Code theme, customized for LaTeX, Markdown and Python.
