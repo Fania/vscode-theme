@@ -541,6 +541,72 @@
 			"settings": {
 				"foreground": "#008200"
 			}
+		},
+		{
+			"scope": "source.haskell",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "text.html.markdown",
+			"settings": {
+				"foreground": "#ffffff"
+			}
+		},
+		{
+			"scope": "comment.block.haskell",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"scope": "comment.line.double-dash.haskell",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"scope": "comment.line.percentage.tex",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"scope": "comment.line.number-sign.python",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"scope": "meta.structure.dictionary.json",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "meta.group.braces.tex",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "text.tex.latex",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "source.python",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "text.html.basic",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
 		}
 	]
 }
