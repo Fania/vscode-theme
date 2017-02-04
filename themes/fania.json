@@ -561,6 +561,12 @@
 			}
 		},
 		{
+			"scope": "comment.block.html",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
 			"scope": "comment.line.double-dash.haskell",
 			"settings": {
 				"foreground": "#888888"
