@@ -619,6 +619,18 @@
 			"settings": {
 				"foreground": "#FFFFFF"
 			}
+		},
+		{
+			"scope": "keyword.operator.function.infix.haskell",
+			"settings": {
+				"foreground": "#DDAABB"
+			}
+		},
+		{
+			"scope": "keyword.operator.haskell",
+			"settings": {
+				"foreground": "#DDAABB"
+			}
 		}
 	]
 }
