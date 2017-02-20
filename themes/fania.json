@@ -20,6 +20,48 @@
 			}
 		},
     // FANIA
+		{
+			"scope": "punctuation.terminator.rule.css",
+			"settings": {
+				"foreground": "#FCABDD"
+			}
+		},
+		{
+			"scope": "meta.property-value.css",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "meta.property-name.css",
+			"settings": {
+				"foreground": "#AEE8CF"
+			}
+		},
+		{
+			"scope": "meta.property-list.css",
+			"settings": {
+				"foreground": "#AEE8CF"
+			}
+		},
+		{
+			"scope": "support.constant.porperty-value.css",
+			"settings": {
+				"foreground": "#D7AADD"
+			}
+		},
+		{
+			"scope": "support.type.porperty-name.css",
+			"settings": {
+				"foreground": "#AEE8CF"
+			}
+		},
+		{
+			"scope": "constant.other.color.rbg-value.css",
+			"settings": {
+				"foreground": "#9DE2F2"
+			}
+		},
     {
 			"scope": "background",
 			"settings": {
@@ -274,31 +316,31 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#569CD6"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#ce9178"
+				"foreground": "#CE9178"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#B5CEA8"
 			}
 		},
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#9CDCFE"
 			}
 		},
 		{
 			"scope": "meta.header.diff",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -359,7 +401,7 @@
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#d16969"
+				"foreground": "#D16969"
 			}
 		},
     {
@@ -401,25 +443,25 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#D4D4D4"
 			}
 		},
 		{
 			"scope": "keyword.operator.new",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#569CD6"
 			}
 		},
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#B5CEA8"
 			}
 		},
 		{
 			"scope": "metatag.php",
 			"settings": {
-				"foreground": "#569cd6"
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -431,14 +473,14 @@
 		{
 			"scope": "constant.sha.git-rebase",
 			"settings": {
-				"foreground": "#b5cea8"
+				"foreground": "#B5CEA8"
 			}
 		},
 		{
 			"name": "coloring of the Java import and package identifiers",
 			"scope": ["storage.modifier.import.java", "storage.modifier.package.java"],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#D4D4D4"
 			}
 		},
     // LATEX
@@ -630,6 +672,12 @@
 			"scope": "keyword.operator.haskell",
 			"settings": {
 				"foreground": "#FF00FF"
+			}
+		},
+		{
+			"scope": "source.css",
+			"settings": {
+				"foreground": "#FFFFFF"
 			}
 		}
 	]
