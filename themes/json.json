@@ -1,0 +1,11 @@
+{
+	"name": "Fania-JSON",
+	"settings": [
+		{
+			"scope": "meta.structure.dictionary.json",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		}
+	]
+}

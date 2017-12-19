@@ -1,0 +1,35 @@
+{
+	"name": "Fania-Haskell",
+	"settings": [
+		{
+			"scope": "source.haskell",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "comment.block.haskell",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"scope": "comment.line.double-dash.haskell",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"scope": "keyword.operator.function.infix.haskell",
+			"settings": {
+				"foreground": "#FF00FF"
+			}
+		},
+		{
+			"scope": "keyword.operator.haskell",
+			"settings": {
+				"foreground": "#FF00FF"
+			}
+		}
+	]
+}

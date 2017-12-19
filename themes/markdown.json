@@ -1,0 +1,101 @@
+{
+	"name": "Fania-Markdown",
+	"settings": [
+		{
+			"scope": "markup.underline",
+			"settings": {
+				"fontStyle": "underline"
+			}
+		},
+		{
+			"scope": "markup.bold",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#00855B"
+			}
+		},
+		{
+			"scope": "markup.heading",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#569cd6"
+			}
+		},
+		{
+			"scope": "markup.italic",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#00855B"
+			}
+		},
+		{
+			"scope": "markup.inserted",
+			"settings": {
+				"foreground": "#b5cea8"
+			}
+		},
+		{
+			"scope": "markup.deleted",
+			"settings": {
+				"foreground": "#ce9178"
+			}
+		},
+		{
+			"scope": "markup.changed",
+			"settings": {
+				"foreground": "#569cd6"
+			}
+		},
+		{
+			"scope": "markup.punctuation.quote",
+			"settings": {
+				"foreground": "#608b4e"
+			}
+		},
+		{
+			"scope": "markup.punctuation.list",
+			"settings": {
+				"foreground": "#6796e6"
+			}
+		},
+		{
+			"scope": ["markup.quote", "markup.list"],
+			"settings": {
+				"foreground": "#d4d4d4"
+			}
+		},
+		{
+			"scope": "markup.inline.raw",
+			"settings": {
+				"foreground": "#ce9178"
+			}
+		},
+		{
+			"scope": "markup.italic.textit.latex",
+			"settings": {
+				"foreground": "#00855B",
+        "fontstyle": "italic"
+			}
+		},
+    {
+			"scope": "markup.bold.textbf.latex",
+			"settings": {
+				"foreground": "#00855B",
+        "fontstyle": "bold"
+			}
+		},
+    {
+			"scope": "markup.bold.todo.latex",
+			"settings": {
+				"foreground": "#FF3333"
+			}
+		},
+    {
+			"scope": "markup.italic.emph.latex",
+			"settings": {
+				"foreground": "#00855B",
+        "fontstyle": ["bold", "italic"]
+			}
+		}
+	]
+}

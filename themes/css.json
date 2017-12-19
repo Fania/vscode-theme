@@ -1,0 +1,103 @@
+{
+	"name": "Fania-CSS",
+	"settings": [		
+    // CSS
+		{
+			"scope": "punctuation.terminator.rule.css",
+			"settings": {
+				"foreground": "#FCABDD"
+			}
+		},
+		{
+			"scope": "meta.property-value.css",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "meta.property-name.css",
+			"settings": {
+				"foreground": "#AEE8CF"
+			}
+		},
+		{
+			"scope": "meta.property-list.css",
+			"settings": {
+				"foreground": "#AEE8CF"
+			}
+		},
+		{
+			"scope": "support.constant.porperty-value.css",
+			"settings": {
+				"foreground": "#D7AADD"
+			}
+		},
+		{
+			"scope": "support.type.porperty-name.css",
+			"settings": {
+				"foreground": "#AEE8CF"
+			}
+		},
+		{
+			"scope": "constant.other.color.rbg-value.css",
+			"settings": {
+				"foreground": "#9DE2F2"
+			}
+		},
+    
+    {
+			"scope": "source.css.embedded.punctuation.definition.tag.html",
+			"settings": {
+				"foreground": "#6949FA"
+			}
+		},
+		{
+			"scope": "comment.block.css",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+		{
+			"scope": "source.css",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+    {
+			"scope": "entity.other.attribute-name.css",
+			"settings": {
+				"foreground": "#B36EC4"
+			}
+		},
+		{
+			"scope": ["meta.selector", "meta.selector.css", "entity.other.attribute-name.id"],
+			"settings": {
+				"foreground": "#FA41A0"
+			}
+		},
+    {
+			"scope":  "source.css.embedded.punctuation.definition.tag.html",
+			"settings": {
+				"foreground": "#6949FA"
+			}
+		},
+    {
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#00FF00"
+			}
+		},
+		{
+			"scope": "comment.block.css",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+    {
+			"scope": "source.css",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		}
+	]
+}

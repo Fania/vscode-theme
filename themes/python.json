@@ -1,0 +1,23 @@
+{
+	"name": "Fania-Python",
+	"settings": [
+		{
+			"scope": "comment.line.number-sign.python",
+			"settings": {
+				"foreground": "#888888"
+			}
+		},
+    {
+			"scope": "meta.structure.dictionary.key.python",
+			"settings": {
+				"foreground": "#9CDCFE"
+			}
+		},
+		{
+			"scope": "source.python",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		}
+	]
+}
