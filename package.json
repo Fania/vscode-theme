@@ -2,14 +2,14 @@
     "name": "theme-fania",
     "displayName": "Fania Theme",
     "description": "Dark colour theme made for LaTeX, Python and Web languages.",
-    "version": "1.8.3",
+    "version": "2.0.0",
     "publisher": "fania",
     "repository": {
         "type": "git",
         "url": "https://github.com/Fania/vscode-theme.git"
     },
     "engines": {
-        "vscode": "*"
+        "vscode": "^1.19.0"
     },
     "categories": [
         "Themes"
