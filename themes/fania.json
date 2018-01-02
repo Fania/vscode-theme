@@ -44,7 +44,8 @@
         "keyword.control.import.python",
         "storage.type.function.python",
         "punctuation.definition.list.begin.python",
-        "punctuation.definition.list.end.python"
+        "punctuation.definition.list.end.python",
+        "markup.quote.markdown"
 			],
 			"settings": {
 				"foreground": "#C63C73"
@@ -61,7 +62,6 @@
         "punctuation.definition.bold.markdown",
         "markup.italic.markdown",
         "punctuation.definition.italic.markdown",
-        "markup.quote.markdown",
         "keyword.operator.combinator.css",
         "keyword.control.loop.js",
         "meta.item-access.python",
