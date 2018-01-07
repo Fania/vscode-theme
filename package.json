@@ -2,7 +2,7 @@
     "name": "theme-fania",
     "displayName": "Fania Theme",
     "description": "Dark colour theme made for LaTeX, Python and Web languages.",
-    "version": "2.2.0",
+    "version": "2.3.0",
     "publisher": "fania",
     "repository": {
         "type": "git",
