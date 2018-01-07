@@ -131,7 +131,8 @@
         "punctuation.definition.function.latex",
         "entity.other.attribute-name.localname.xml",
         "punctuation.definition.array.begin.json",
-        "punctuation.definition.array.end.json"
+        "punctuation.definition.array.end.json",
+        "punctuation.definition.bird-track.haskell"
 			],
 			"settings": {
 				"foreground": "#01ffaa"
@@ -176,7 +177,8 @@
         "punctuation.definition.raw.markdown",
         "support.constant.property-value.css",
         "support.constant.color.w3c-standard-color-name.css",
-        "markup.raw.verbatim.latex"
+        "markup.raw.verbatim.latex",
+        "invalid.illegal.string.quoted.double.latex"
 			],
 			"settings": {
 				"foreground": "#EEF56C"
